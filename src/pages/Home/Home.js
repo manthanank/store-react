@@ -15,7 +15,7 @@ export default function Home() {
           </Link>
         </div>
       </div>
-      <div className="pic"></div>
+      <div className="pic"></div>     
     </div>
   );
 }
