@@ -3,7 +3,7 @@ button:focus {
 }
 
 .pic {
-  background: url("")
+  background: url("/src/images/furniture.png")
     no-repeat center center/cover;
   width: 60%;
   height: 90vh;
