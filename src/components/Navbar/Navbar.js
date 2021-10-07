@@ -11,7 +11,10 @@ export default function Navbar() {
   return (
     <div className="nav">
       <div className="nav-container">
-        <h1>Trends</h1>
+      <Link to="/">
+        <h1>SlashIndia</h1>
+      </Link>
+        
 
         <ul className="links">
           <Link to="/">
