@@ -3,7 +3,7 @@ const data = [
     id: "recZkNf2kwmdBcqd0",
     name: "Green Top",
     price: 25,
-    image: "https://i.ibb.co/7CQVJNm/blue-tank.png",
+    image: "",
     company: "Levis",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -16,7 +16,7 @@ const data = [
     id: "recEHmzvupvT8ZONH",
     name: "Floral Top",
     price: 60,
-    image: "https://i.ibb.co/4W2DGKm/floral-blouse.png",
+    image: "",
     company: "Vero Moda",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -29,7 +29,7 @@ const data = [
     id: "rec5NBwZ5zCD9nfF0",
     name: "Floral Dress",
     price: 50,
-    image: "https://i.ibb.co/KV18Ysr/floral-skirt.png",
+    image: "",
     company: "Only",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -41,7 +41,7 @@ const data = [
     id: "recd1jIVIEChmiwhe",
     name: "Red Dress",
     price: 70,
-    image: "https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png",
+    image: "",
     company: "Vero Moda",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -54,7 +54,7 @@ const data = [
     id: "recoM2MyHJGHLVi5l",
     name: "Striped Sweater",
     price: 80,
-    image: "https://i.ibb.co/KmSkMbH/striped-sweater.png",
+    image: "",
     company: "Only",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -67,7 +67,7 @@ const data = [
     id: "recotY5Nh00DQFdkm",
     name: "Yellow Trouser",
     price: 20,
-    image: "https://i.ibb.co/v1cvwNf/yellow-track-suit.png",
+    image: "",
     company: "Only",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -80,7 +80,7 @@ const data = [
     id: "rec1Ntk7siEEW9ha1",
     name: "White Top",
     price: 40,
-    image: "https://i.ibb.co/qBcrsJg/white-vest.png",
+    image: "",
     company: "Only",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -93,7 +93,7 @@ const data = [
     id: "recNZ0koOqEmilmoz",
     name: "Pink Sweatshirt",
     price: 90,
-    image: "https://i.ibb.co/ypkgK0X/blue-beanie.png",
+    image: "",
     company: "Levis",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -106,7 +106,7 @@ const data = [
     id: "recrfxv3EwpvJwvjq",
     name: "Brown Coat",
     price: 100,
-    image: "https://i.ibb.co/M6hHc3F/brown-trench.png",
+    image: "",
     company: "Only",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -119,7 +119,7 @@ const data = [
     id: "recoW8ecgjtKx2Sj2",
     name: "Grey Jacket",
     price: 20,
-    image: "https://i.ibb.co/N71k1ML/grey-jean-jacket.png",
+    image: "",
     company: "Vero Moda",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.",
