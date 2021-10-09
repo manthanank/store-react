@@ -2,7 +2,7 @@ const data = [
   {
     id: "recZkNf2kwmdBcqd0",
     name: "Green Top",
-    price: 25,
+    price: 1,
     image: "",
     company: "Levis",
     description:
