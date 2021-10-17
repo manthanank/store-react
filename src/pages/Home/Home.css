@@ -35,18 +35,18 @@ button:focus {
   line-height: 3em;
   margin: 0;
   text-align: left;
-  border-top: 3px solid #3aafa9;
+  border-top: 3px solid #8a3aaf;
   padding-top: 20px;
 }
 .content button {
   padding: 10px;
   color: #fff;
-  background-color: #3aafa9;
+  background-color: #8a3aaf;
   border: none;
   cursor: pointer;
 }
 .content button:hover {
-  color: #3aafa9;
+  color: #8a3aaf;
   background: transparent;
   border: 2px solid #3aafa9;
 }
