@@ -43,6 +43,7 @@ button:focus {
   color: #fff;
   background-color: #8a3aaf;
   border: none;
+  border-radius:5px;
   cursor: pointer;
 }
 .content button:hover {
