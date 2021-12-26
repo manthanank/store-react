@@ -9,7 +9,7 @@ import { UserProvider } from "./context/user_context";
 ReactDOM.render(
   <Auth0Provider
     domain="slash-web.us.auth0.com"
-    clientId="3pKhaBbVwPiI5DwFkEizOSl52juaXplt"
+    wLAPIICg0QSyDeRXjeSVTrBY02HcgXAD"
     redirectUri={window.location.origin}
     cacheLocation="localstorage"
   >
