@@ -14,8 +14,7 @@ export default function Home() {
             <button>Get Started</button>
           </Link>
         </div>
-      </div>
-      <div className="pic"></div>     
+      </div>    
     </div>
   );
 }

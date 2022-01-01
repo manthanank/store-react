@@ -2,18 +2,12 @@ button:focus {
   outline: none;
 }
 
-.pic {
-  background: url("/src/images/furniture.png")
-    no-repeat center center/cover;
-  width: 60%;
-  height: 90vh;
-}
 .info {
   display: flex;
 }
 
 .content {
-  width: 40%;
+  width: 100%;
   text-align: center;
   padding: 50px;
   height: 90vh;

@@ -12,7 +12,7 @@ export default function Navbar() {
     <div className="nav">
       <div className="nav-container">
       <Link to="/">
-        <h1>SlashIndia</h1>
+        <h1>Store App</h1>
       </Link>
         
 
