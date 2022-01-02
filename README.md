@@ -6,24 +6,24 @@ This is a fully functional Ecommerce Website which allows the user to login,add 
 
 ## Demo
 
-👉 [Link](https://wizardly-panini-81c8e1.netlify.app/)
+👉 [Link]()
 
 ## Screenshots
 
 Homepage
-![Capture](https://user-images.githubusercontent.com/4997491/116504126-47246500-a8d5-11eb-8852-b41d9b1a77e6.JPG)
+![Capture]()
 
 Login Popup
-![login](https://user-images.githubusercontent.com/4997491/116504932-2eb54a00-a8d7-11eb-8793-35e7fb4b91fb.JPG)
+![login]()
 
 Products Page
-![product](https://user-images.githubusercontent.com/4997491/116504383-c6199d80-a8d5-11eb-89aa-3c4874d009e1.JPG)
+![product]()
 
 Cart Page
-![cart](https://user-images.githubusercontent.com/4997491/116504661-75567480-a8d6-11eb-9ed3-187502655349.JPG)
+![cart]()
 
 Stripe Payment Page
-![payment](https://user-images.githubusercontent.com/4997491/116504802-d41bee00-a8d6-11eb-9913-6cc0e7f22302.JPG)
+![payment]()
 
 404 Error Page
 ![error](https://user-images.githubusercontent.com/4997491/116504553-2a3c6180-a8d6-11eb-8f13-11a1778afa93.JPG)
@@ -34,7 +34,7 @@ Step 1
 🍴 Fork this repo!
 
 Step 2
-👯 Clone this repo to your local machine using https://github.com/kritika27/ecommerce-store-reactjs-stripe-oauth2.git
+👯 Clone this repo to your local machine using https://github.com/kritika27/ecommerce-store-reactjs-stripe-oauth2.git /
 
 Step 3
 HACK AWAY! 🔨🔨🔨
